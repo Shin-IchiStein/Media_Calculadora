@@ -26,4 +26,4 @@ else:
     print("Status: REPROVADO. ")
 ```
 
-# AUTOR DA PORRA TODA Gabriel Stein
+# Autor Gabriel Stein
