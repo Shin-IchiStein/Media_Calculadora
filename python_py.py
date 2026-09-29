@@ -1,15 +1,3 @@
-# Cálculo de Média
-**Descrição do meu programa**
-
-***
-
-## Tecnologias Utilizadas
-
--Python /
-Média
-___
-## Codigo feito.
-```
 def calcular_media(nota1, nota2 ):
     return (nota1 + nota2) / 2
 
@@ -24,6 +12,3 @@ if media >= 6.0:
     print("Status: APROVADO!! ")
 else:  
     print("Status: REPROVADO. ")
-```
-
-# AUTOR DA PORRA TODA Gabriel Stein
